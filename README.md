@@ -3,7 +3,7 @@ A file-transfer for react-native, code come from cordova, support for android an
 
 ## Installation
 ```sh
-npm install @remobile/react-native-file-transfer --save
+npm install @zss0512/react-native-file-transfer --save
 ```
 
 ### Installation (iOS)
